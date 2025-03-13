@@ -2,7 +2,7 @@
 Dựa vào danh sách bài của file pdf.
 
 ## 🔹 Danh sách Repo Con:
-1. **[Android_TH_Bai1_2](https://github.com/tkim-061203/Android_TH_Bai1_2)** - Bài thực hành 1_2
+1. **[Android_TH_Bai1_2](https://github.com/tkim-061203/Android_TH_Bai1_2)** - Bài thực hành 1.2
 2. **[Android_TH_Bai2](https://github.com/tkim-061203/Android_TH_Bai2)** - Bài thực hành 2
 
 ---
