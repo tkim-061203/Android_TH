@@ -1,4 +1,5 @@
-# 📌 THỰC HÀNH Android
+# 📌 THỰC HÀNH ANDROID
+Dựa vào danh sách bài của file pdf.
 
 ## 🔹 Danh sách Repo Con:
 1. **[Android_TH_Bai1_2](https://github.com/tkim-061203/Android_TH_Bai1_2)** - Bài thực hành 1_2
